@@ -1,0 +1,1 @@
+https://user:pass@accounts.somedomain.com:44000/hello/world/abc?what=to&say=nothing#areyousure
